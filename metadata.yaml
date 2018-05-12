@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28452#The-American-Housewifeand-Methodical-Manner
 gutenberg_issued: '2009-03-30'
 gutenberg_type: Text
 identifiers:
